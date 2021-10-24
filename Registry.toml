@@ -5,4 +5,3 @@ description = "A Development-Registry for the JuliaQuantumControl Org"
 
 [packages]
 290eba36-e2d8-4488-81b6-f66cc44f2186 = { name = "GRAPELinesearchAnalysis", path = "G/GRAPELinesearchAnalysis" }
-7bf12567-5742-4b91-a078-644e72a65fc1 = { name = "QuantumPropagators", path = "Q/QuantumPropagators" }
