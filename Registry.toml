@@ -4,3 +4,4 @@ repo = "https://github.com/JuliaQuantumControl/QuantumControlRegistry.git"
 description = "A Development-Registry for the JuliaQuantumControl Org"
 
 [packages]
+7bf12567-5742-4b91-a078-644e72a65fc1 = { name = "QuantumPropagators", path = "Q/QuantumPropagators" }
