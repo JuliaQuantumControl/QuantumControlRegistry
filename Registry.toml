@@ -1,0 +1,6 @@
+name = "QuantumControlRegistry"
+uuid = "4170eb78-06de-4a00-a3e2-ffb5c6cf84a8"
+repo = "https://github.com/JuliaQuantumControl/QuantumControlRegistry.git"
+description = "A Development-Registry for the JuliaQuantumControl Org"
+
+[packages]
