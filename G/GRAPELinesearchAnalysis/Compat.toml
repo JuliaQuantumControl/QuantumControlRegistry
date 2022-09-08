@@ -23,7 +23,12 @@ GRAPE = "0.0.3-*"
 ["0.3-0"]
 Plots = "1.25.0-1"
 
-["0.4-0"]
+["0.4.0"]
 GRAPE = "0.2.0-*"
 QuantumControlBase = "0.4.0-*"
 QuantumPropagators = "0.2.0-*"
+
+["0.4.1-0"]
+GRAPE = "0.1.0-*"
+QuantumControlBase = "0.1.0-*"
+QuantumPropagators = "0.1.0-*"
