@@ -5,4 +5,5 @@ description = "A Development-Registry for the JuliaQuantumControl Org"
 
 [packages]
 290eba36-e2d8-4488-81b6-f66cc44f2186 = { name = "GRAPELinesearchAnalysis", path = "G/GRAPELinesearchAnalysis" }
+a563f35e-61db-434d-8c01-8b9e3ccdfd85 = { name = "QuantumGradientGenerators", path = "Q/QuantumGradientGenerators" }
 d3fd27c9-1dfb-4e67-b0c0-90d0d87a1e48 = { name = "QuantumControlTestUtils", path = "Q/QuantumControlTestUtils" }
